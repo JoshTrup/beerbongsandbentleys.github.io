@@ -246,15 +246,15 @@ Primary use:
 
 /*---------------------------------------------*/
 .how-social {
-  color: #fff;
+  color: #FFFF00;
   font-size: 18px;
-  border: 1px solid #fff;
+  border: 1px solid #FFFF00;
   background-color: transparent;
   border-radius: 50%;
 }
 
 .how-social:hover {
-  background-color: #fff;
+  background-color: #FFFF00;
   color: #555;
 }
 
