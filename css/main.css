@@ -76,7 +76,7 @@ Primary use:
 [ S-Text 0 - 15 ]*/
 .s1-txt1 {
   font-family: Poppins-Regular;
-  font-size: 12px;
+  font-size: 8px;
   color: #fff;
   line-height: 1;
   text-transform: uppercase;
@@ -182,10 +182,10 @@ Primary use:
 /*==================================================================
  HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
 ==================================================================*/
-.placeholder0::-webkit-input-placeholder { color: #999999;}
-.placeholder0:-moz-placeholder { color: #999999;}
-.placeholder0::-moz-placeholder { color: #999999;}
-.placeholder0:-ms-input-placeholder { color: #999999;}
+.placeholder0::-webkit-input-placeholder { color: #fceb02;}
+.placeholder0:-moz-placeholder { color: #fceb02;}
+.placeholder0::-moz-placeholder { color: #fceb02;}
+.placeholder0:-ms-input-placeholder { color: #fceb02;}
 
 
 /*---------------------------------------------*/
